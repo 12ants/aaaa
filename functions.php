@@ -340,6 +340,15 @@ function ob_plug_register_required_plugins()
 
 
 
+			array(
+			'name' => 'wp-seopress',
+			'slug' => 'wp-seopress',
+			'required' => false,
+		),
+
+
+		
+		
 
 	);
 
